@@ -5,7 +5,7 @@ package glfw
 
 import (
 	"github.com/go-gl/glfw"
-	"github.com/jteeuwen/keyboard"
+	"github.com/hibooboo2/keyboard"
 )
 
 // Keyboard is a keyboard backend for libGLFW.

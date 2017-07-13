@@ -15,7 +15,7 @@ an example.
 
 ### Usage
 
-    go get github.com/jteeuwen/keyboard/glfw
+    go get github.com/hibooboo2/keyboard/glfw
 
 
 ### License

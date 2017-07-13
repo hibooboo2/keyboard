@@ -16,7 +16,7 @@ to be triggered.
 
 Creating a new keyboard (for GLFW in this case):
 
-	import "github.com/jteeuwen/keyboard/glfw"
+	import "github.com/hibooboo2/keyboard/glfw"
 	...
 	kb := glfw.New()
 
@@ -115,7 +115,7 @@ these restricitons may be.
 
 ### Usage
 
-    go get github.com/jteeuwen/keyboard
+    go get github.com/hibooboo2/keyboard
 
 
 ### License

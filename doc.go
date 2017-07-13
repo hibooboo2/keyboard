@@ -11,7 +11,7 @@ to be triggered. For example:
 
 Creating a new keyboard (for GLFW in this case):
 
-	import "github.com/jteeuwen/keyboard/glfw"
+	import "github.com/hibooboo2/keyboard/glfw"
 	...
 	kb := glfw.New()
 
